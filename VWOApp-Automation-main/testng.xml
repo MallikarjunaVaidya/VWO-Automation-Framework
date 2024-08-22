@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<!--<test thread-count="5" name="Test">-->
+		<test verbose="2" preserve-order="true" name="D:\Eclipse\Selenium_TestCases\TestingAcadamy\LearningSel">
+		<classes>
+			<class name="com.example.LearningSel.AppVWOFirstProject">
+			<methods>
+				<include name='validLogin'/>
+				<include name='invalidLogin'/>
+			</methods>
+			</class>
+		</classes>
+	</test> <!--
+	Test -->
+</suite> <!--
+Suite -->
