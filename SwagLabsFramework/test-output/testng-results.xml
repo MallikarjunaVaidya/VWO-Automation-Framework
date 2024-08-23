@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-13T12:21:48 IST" name=" Swag Labs TestSuite" finished-at="2024-08-13T12:22:39 IST" duration-ms="50617">
+    <groups>
+    </groups>
+    <test started-at="2024-08-13T12:21:48 IST" name="SwagLabs Framework Test Cases" finished-at="2024-08-13T12:22:39 IST" duration-ms="50617">
+      <class name="in.vtech.swagLabsFramework.testcases.AddToCartTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:in.vtech.swagLabsFramework.testcases.AddToCartTest@15888343]" started-at="2024-08-13T12:22:07 IST" name="setup" finished-at="2024-08-13T12:22:08 IST" duration-ms="1143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="userShoppingCart()[pri:1, instance:in.vtech.swagLabsFramework.testcases.AddToCartTest@15888343]" started-at="2024-08-13T12:22:08 IST" name="userShoppingCart" finished-at="2024-08-13T12:22:11 IST" duration-ms="2830" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userShoppingCart -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:in.vtech.swagLabsFramework.testcases.AddToCartTest@15888343]" started-at="2024-08-13T12:22:11 IST" name="setup" finished-at="2024-08-13T12:22:18 IST" duration-ms="7297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="UserAddtoCart()[pri:2, instance:in.vtech.swagLabsFramework.testcases.AddToCartTest@15888343]" started-at="2024-08-13T12:22:18 IST" name="UserAddtoCart" finished-at="2024-08-13T12:22:21 IST" duration-ms="3164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserAddtoCart -->
+      </class> <!-- in.vtech.swagLabsFramework.testcases.AddToCartTest -->
+      <class name="in.vtech.swagLabsFramework.testcases.CheckoutTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:in.vtech.swagLabsFramework.testcases.CheckoutTest@33ecda92]" started-at="2024-08-13T12:22:21 IST" name="setup" finished-at="2024-08-13T12:22:28 IST" duration-ms="6539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateHomePageTitle()[pri:1, instance:in.vtech.swagLabsFramework.testcases.CheckoutTest@33ecda92]" started-at="2024-08-13T12:22:28 IST" name="validateHomePageTitle" finished-at="2024-08-13T12:22:29 IST" duration-ms="1593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomePageTitle -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:in.vtech.swagLabsFramework.testcases.CheckoutTest@33ecda92]" started-at="2024-08-13T12:22:29 IST" name="setup" finished-at="2024-08-13T12:22:37 IST" duration-ms="7394" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateInventoryPageHeaderTextIsDisplayed()[pri:2, instance:in.vtech.swagLabsFramework.testcases.CheckoutTest@33ecda92]" started-at="2024-08-13T12:22:37 IST" name="validateInventoryPageHeaderTextIsDisplayed" finished-at="2024-08-13T12:22:39 IST" duration-ms="2337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInventoryPageHeaderTextIsDisplayed -->
+      </class> <!-- in.vtech.swagLabsFramework.testcases.CheckoutTest -->
+      <class name="in.vtech.swagLabsFramework.testcases.LogoutTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:in.vtech.swagLabsFramework.testcases.LogoutTest@5e7cd6cc]" started-at="2024-08-13T12:21:57 IST" name="setup" finished-at="2024-08-13T12:21:59 IST" duration-ms="2059" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateHomePageTitle()[pri:1, instance:in.vtech.swagLabsFramework.testcases.LogoutTest@5e7cd6cc]" started-at="2024-08-13T12:21:59 IST" name="validateHomePageTitle" finished-at="2024-08-13T12:22:00 IST" duration-ms="706" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomePageTitle -->
+      </class> <!-- in.vtech.swagLabsFramework.testcases.LogoutTest -->
+      <class name="in.vtech.swagLabsFramework.testcases.ProductDetailTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:in.vtech.swagLabsFramework.testcases.ProductDetailTest@68c9d179]" started-at="2024-08-13T12:22:00 IST" name="setup" finished-at="2024-08-13T12:22:02 IST" duration-ms="2177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ProductImage()[pri:1, instance:in.vtech.swagLabsFramework.testcases.ProductDetailTest@68c9d179]" started-at="2024-08-13T12:22:02 IST" name="ProductImage" finished-at="2024-08-13T12:22:03 IST" duration-ms="1269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProductImage -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:in.vtech.swagLabsFramework.testcases.ProductDetailTest@68c9d179]" started-at="2024-08-13T12:22:03 IST" name="setup" finished-at="2024-08-13T12:22:05 IST" duration-ms="2199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="productDetail()[pri:2, instance:in.vtech.swagLabsFramework.testcases.ProductDetailTest@68c9d179]" started-at="2024-08-13T12:22:05 IST" name="productDetail" finished-at="2024-08-13T12:22:07 IST" duration-ms="1432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productDetail -->
+      </class> <!-- in.vtech.swagLabsFramework.testcases.ProductDetailTest -->
+      <class name="in.vtech.swagLabsFramework.testcases.HomePageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:in.vtech.swagLabsFramework.testcases.HomePageTest@6f10d5b6]" started-at="2024-08-13T12:21:49 IST" name="setup" finished-at="2024-08-13T12:21:52 IST" duration-ms="3252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateHomePageTitle()[pri:1, instance:in.vtech.swagLabsFramework.testcases.HomePageTest@6f10d5b6]" started-at="2024-08-13T12:21:52 IST" name="validateHomePageTitle" finished-at="2024-08-13T12:21:52 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomePageTitle -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:in.vtech.swagLabsFramework.testcases.HomePageTest@6f10d5b6]" started-at="2024-08-13T12:21:52 IST" name="setup" finished-at="2024-08-13T12:21:54 IST" duration-ms="1909" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateHomePageHeaderTextIsDisplayed()[pri:2, instance:in.vtech.swagLabsFramework.testcases.HomePageTest@6f10d5b6]" started-at="2024-08-13T12:21:54 IST" name="validateHomePageHeaderTextIsDisplayed" finished-at="2024-08-13T12:21:54 IST" duration-ms="102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomePageHeaderTextIsDisplayed -->
+      </class> <!-- in.vtech.swagLabsFramework.testcases.HomePageTest -->
+      <class name="in.vtech.swagLabsFramework.testcases.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:in.vtech.swagLabsFramework.testcases.LoginTest@4b8d604b]" started-at="2024-08-13T12:21:54 IST" name="setup" finished-at="2024-08-13T12:21:56 IST" duration-ms="2343" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="UserLoginPage()[pri:0, instance:in.vtech.swagLabsFramework.testcases.LoginTest@4b8d604b]" started-at="2024-08-13T12:21:56 IST" name="UserLoginPage" finished-at="2024-08-13T12:21:57 IST" duration-ms="544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserLoginPage -->
+      </class> <!-- in.vtech.swagLabsFramework.testcases.LoginTest -->
+    </test> <!-- SwagLabs Framework Test Cases -->
+  </suite> <!--  Swag Labs TestSuite -->
+</testng-results>
